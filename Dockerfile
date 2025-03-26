@@ -1,5 +1,5 @@
 # from ruby
-FROM python:3.11.5-bookworm
+FROM python:3.13.2-bookworm
 
 ENV PYTHONUNBUFFERED 1
 
